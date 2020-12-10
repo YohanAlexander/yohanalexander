@@ -1,1 +1,1 @@
-[![Gopher coding](https://github.com/YohanAlexander/yohanalexander/raw/main/gopher-bodybuilder.png)](https://yohanalexander.github.io/)
+[![Gopher coding](https://github.com/YohanAlexander/yohanalexander/raw/main/gopher-workout.gif)](https://yohanalexander.github.io/)
